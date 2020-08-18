@@ -29,7 +29,7 @@
 
 ## :computer: Sobre
 
-É um simples classificador numérico criada com **TensorFlowJS** utilizando alguns conceitos de ciêmachine learning.
+É um simples classificador numérico criada com **TensorFlowJS** utilizando alguns conceitos de ciência de dados e machine learning.
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
